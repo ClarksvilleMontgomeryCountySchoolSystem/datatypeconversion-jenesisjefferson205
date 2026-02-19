@@ -6,4 +6,4 @@ print(bool("False"))
 # Experiment below:
 print(bool(False))
 
-print(bool(''))
+print(bool(""))
